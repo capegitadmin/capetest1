@@ -1,0 +1,16 @@
+#nameofFile = [nameOfFile]
+#nameofRule =[nameOfRule]
+<-Expect->[nameOfRule]=[numberOfMatches]
+
+
+JCB:
+3583834045778140
+3553320865380130
+3531316333045658
+3570521323868751
+3528753734013320
+
+
+155-11-1234
+154221357
+155123456
